@@ -1,5 +1,7 @@
 # 每月工资
+---
 ## 十月份
+----
 [博客](https://dzr.lengku.cf/)
 [论坛](https://bbs.lengku.cf/)
 [网站](http://douzhier.sxl.cn/)
