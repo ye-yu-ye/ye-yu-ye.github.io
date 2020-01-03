@@ -1,4 +1,6 @@
-![工作室LOGO](https://ylrpwq.coding.io/wp-content/uploads/2020/01/工作室logo.png ''工作室LOGO'')
+![工作室LOGO](https://ylrpwq.coding.io/wp-content/uploads/2020/01/工作室logo.png "工作室LOGO")
+
+
 # 每月工资
 ---
 [博客](https://dzr.lengku.cf/)
@@ -6,9 +8,11 @@
 [网站](http://douzhier.sxl.cn/)
 
 
+
+
 ## 十二月份
 ----
-成员数量：14  成员总工资：1000  投稿作品总数：20
+成员数量：14      成员总工资：1000      投稿作品总数：20
 -----
 成员|职位|投稿作品数|工资
 --- |:--:|--:|--:|
@@ -31,6 +35,15 @@ Hello World|python程序员|0|暂无
 ------
 室长QQ：2093142951
 -------
+
+
+
+
+
+
+
+
+
 
 
 ## 十月份
