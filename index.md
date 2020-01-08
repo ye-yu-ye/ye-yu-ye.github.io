@@ -1,4 +1,4 @@
-![工作室LOGO](https://ylrpwq.coding.io/wp-content/uploads/2020/01/工作室logo.png "工作室LOGO")
+![工作室LOGO](http://user-assets.sxlcdn.com/images/544576/FjMoDaJkRLQI0xVC2ZVfvRpTJ-NU.png?imageMogr2/strip/auto-orient/thumbnail/300x300%3E/format/png "工作室LOGO")
 
 
 # 每月工资
