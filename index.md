@@ -3,10 +3,10 @@
 
 # 每月工资
 ---
-[博客](https://dzr.lengku.cf/)
+[系统](https://player.codemao.cn/we/38883999)
 [论坛](https://bbs.lengku.cf/)
-[网站](http://douzhier.sxl.cn/)
-
+[网站](http://dzrsy.sxl.cn/)
+[专题](https://shequ.codemao.cn/work_shop/191/)
 
 
 
